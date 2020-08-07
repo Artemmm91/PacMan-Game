@@ -1,0 +1,14 @@
+part = 32
+level_hard = 4
+last_level = 1
+start_screen = (700, 700)
+start = (2, 1)
+start_ghost1 = (10, 8)
+start_ghost2 = (10, 9)
+start_ghost3 = (9, 9)
+start_ghost4 = (11, 9)
+food_radius = 2
+pacman_radius = 10
+ghost_radius = 16
+score_point = 5
+pacman_speed = 4
